@@ -1,0 +1,17 @@
+# Supplied assessment dataset - MUST NOT be published
+data/
+*.zip
+messages.csv
+mandatory_demo_ids.csv
+
+# Outputs generated from the private dataset
+outputs/
+
+# Notebook and Python noise
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+*.ipynb.bak 

@@ -1,0 +1,56 @@
+message_id,timestamp,sender,message
+DEMO_0001,2026-10-01 08:07:00,Team Lead,Important: Remember that i keep Thursdays free.
+DEMO_0002,2026-10-01 09:14:00,Promotions,Quick update: Two-for-one on notebooks this week. Use code DEMO12.
+DEMO_0003,2026-10-01 10:21:00,Sam,Important: Please submit the summary by 2026-10-01.
+DEMO_0004,2026-10-01 11:28:00,Promotions,"Important: Please join quarterly retro on 2026-10-10, 11:45 at Room C."
+DEMO_0005,2026-10-01 12:35:00,Sam,Important: You can contact me on 07700 900461.
+DEMO_0006,2026-10-01 13:42:00,Priya,FYI: Personal note: i cycle to work on Fridays.
+DEMO_0007,2026-10-01 14:49:00,Priya,"Hi, Can you finalise the vendor quote before 2026-10-05?"
+DEMO_0008,2026-10-01 15:56:00,Priya,Can you help? The archive room has been repainted.
+DEMO_0009,2026-10-01 16:03:00,Promotions,The bus timetable changed on Monday.
+DEMO_0010,2026-10-01 17:10:00,Promotions,"FYI: Calendar update: quarterly retro, 2026-10-10 at 11:45, Room C."
+DEMO_0011,2026-10-01 18:17:00,Sam,Important: Could you send it soon?
+DEMO_0012,2026-10-01 19:24:00,Jordan,Can you help? I need you to archive the old tickets by 2026-10-01.
+DEMO_0013,2026-10-01 20:31:00,Promotions,FYI: Please submit the summary by 2026-10-09.
+DEMO_0014,2026-10-02 08:38:00,Alex,"Please join design critique on 2026-10-08, 14:00 at Zoom."
+DEMO_0015,2026-10-02 09:45:00,Jordan,Quick update: The report may be needed tomorrow.
+DEMO_0016,2026-10-02 10:52:00,Sam,For today: The stairwell lights were replaced.
+DEMO_0017,2026-10-02 11:59:00,Jordan,"For today: Please join volunteer briefing on 2026-10-03, 17:15 at the annex."
+DEMO_0018,2026-10-02 12:06:00,Alex,Important: The access token is tok_demo_QQ7ZP2.
+DEMO_0019,2026-10-02 13:13:00,Alex,Can you help? Please call Priya when you are free.
+DEMO_0020,2026-10-02 14:20:00,Promotions,"Hi, My identification number is ID-8823-QW."
+DEMO_0021,2026-10-02 15:27:00,Sam,Quick update: Reminder: design critique happens on 2026-10-08 at 14:00 in Zoom.
+DEMO_0022,2026-10-02 16:34:00,Team Lead,"FYI: My home address is 7 Harbour Lane, Bristol."
+DEMO_0023,2026-10-02 17:41:00,Promotions,FYI: Use password RedCanyon88 to open the shared folder.
+DEMO_0024,2026-10-02 18:48:00,Promotions,Important: My recent test result says mild iron deficiency.
+DEMO_0025,2026-10-02 19:55:00,Jordan,"Hi, Calendar update: budget workshop, 2026-10-06 at 09:30, Room B."
+DEMO_0026,2026-10-02 20:02:00,Alex,The printer firmware was updated.
+DEMO_0027,2026-10-03 08:09:00,Jordan,"FYI: For my profile, i am allergic to peanuts."
+DEMO_0028,2026-10-03 09:16:00,Team Lead,Can you help? I need you to finalise the vendor quote by 2026-10-05.
+DEMO_0029,2026-10-03 10:23:00,Alex,"Calendar update: volunteer briefing, 2026-10-03 at 17:15, the annex."
+DEMO_0030,2026-10-03 11:30:00,Team Lead,"Can you help? Just so you know, my preferred pronoun is she."
+DEMO_0031,2026-10-03 12:37:00,Team Lead,"FYI: If possible, review the file before the meeting."
+DEMO_0032,2026-10-03 13:44:00,Team Lead,Quick update: Reminder: budget workshop happens on 2026-10-06 at 09:30 in Room B.
+DEMO_0033,2026-10-03 14:51:00,Jordan,"Hi, I need you to renew the parking permit by 2026-10-09."
+DEMO_0034,2026-10-03 15:58:00,Team Lead,FYI: My account recovery code is RC-41-ZT-06.
+DEMO_0035,2026-10-03 16:05:00,Team Lead,Important: Your OTP is 771204. It expires in 8 minutes.
+DEMO_0036,2026-10-03 17:12:00,Alex,FYI: My card number is 4000 1234 5678 9010.
+DEMO_0037,2026-10-03 18:19:00,Sam,"Important: Calendar update: design critique, 2026-10-08 at 14:00, Zoom."
+DEMO_0038,2026-10-03 19:26:00,Promotions,For today: Let us meet sometime next week.
+DEMO_0039,2026-10-03 20:33:00,Jordan,You may like our new hobbyist plan.
+DEMO_0040,2026-10-04 08:40:00,Promotions,Cashback on your first grocery order. Use code DEMO08.
+DEMO_0041,2026-10-04 09:47:00,Sam,For today: Please submit the summary by 2026-10-02.
+DEMO_0042,2026-10-04 10:54:00,Team Lead,For today: Please submit the summary by 2026-10-05.
+DEMO_0043,2026-10-04 11:01:00,Jordan,"For today: Please join budget workshop on 2026-10-06, 09:30 at Room B."
+DEMO_0044,2026-10-04 12:08:00,Jordan,Important: I might prefer earlier check-ins now.
+DEMO_0045,2026-10-04 13:15:00,Priya,The review could be Friday afternoon.
+DEMO_0046,2026-10-04 14:22:00,Jordan,Important: I will send the login details separately.
+DEMO_0047,2026-10-04 15:29:00,Sam,Quick update: Reminder: quarterly retro happens on 2026-10-10 at 11:45 in Room C.
+DEMO_0048,2026-10-04 16:36:00,Jordan,For today: Can you renew the parking permit before 2026-10-09?
+DEMO_0049,2026-10-04 17:43:00,Promotions,"Hi, The canteen now accepts contactless."
+DEMO_0050,2026-10-04 18:50:00,Team Lead,FYI: I need you to upload the safety checklist by 2026-10-02.
+DEMO_0051,2026-10-04 19:57:00,Sam,Important: Can you upload the safety checklist before 2026-10-02?
+DEMO_0052,2026-10-04 20:04:00,Jordan,Can you help? Please note my bank account number 778812340099.
+DEMO_0053,2026-10-05 08:11:00,Promotions,For today: Weekend clearance on desk lamps. Use code DEMO44.
+DEMO_0054,2026-10-05 09:18:00,Alex,For today: Can you archive the old tickets before 2026-10-01?
+DEMO_0055,2026-10-05 10:25:00,Priya,For today: Reminder: volunteer briefing happens on 2026-10-03 at 17:15 in the annex.
